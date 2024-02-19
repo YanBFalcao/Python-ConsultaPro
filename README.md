@@ -24,6 +24,9 @@ O exercício terá:
 Ajustado em 16/02/2024
 - Finalizado conexão entre VSCode, realizado 1ª conexão com sucesso via servidor. Ao enviar comando "regras", é retornado uma mensagem para o servidor com o código em execução via editor VSCode.
 
+Atualizado em 19/02/2024
+- 1º teste de requisição de API realizado com sucesso. Endpoint GET com dados de CNPJ.
+
 Atenciosamente,
 
 Yan B. Falcão
