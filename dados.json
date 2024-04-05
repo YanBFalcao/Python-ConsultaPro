@@ -1,0 +1,226 @@
+{
+  "cnpj_raiz": "15021706",
+  "razao_social": "UNOERP INFORMATICA LTDA",
+  "capital_social": "200000.00",
+  "responsavel_federativo": "",
+  "atualizado_em": "2024-01-13T03:00:00.000Z",
+  "porte": {
+    "id": "03",
+    "descricao": "Empresa de Pequeno Porte"
+  },
+  "natureza_juridica": {
+    "id": "2062",
+    "descricao": "Sociedade Empresária Limitada"
+  },
+  "qualificacao_do_responsavel": {
+    "id": 49,
+    "descricao": "Sócio-Administrador "
+  },
+  "socios": [
+    {
+      "cpf_cnpj_socio": "***011878**",
+      "nome": "ANDRE COIMBRA SOUZA LOPES",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2022-01-28",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-01-13T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 22,
+        "descricao": "Sócio"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***366038**",
+      "nome": "LUCIANO ALBERTO RODRIGUES",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2022-01-28",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "41 a 50 anos",
+      "atualizado_em": "2024-01-13T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 22,
+        "descricao": "Sócio"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***307998**",
+      "nome": "ALESSANDER FAGUNDES",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2012-02-06",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "51 a 60 anos",
+      "atualizado_em": "2024-01-13T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 49,
+        "descricao": "Sócio-Administrador "
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***203098**",
+      "nome": "TIAGO GARCIA AMATO",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2022-01-28",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "31 a 40 anos",
+      "atualizado_em": "2024-01-13T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 22,
+        "descricao": "Sócio"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    },
+    {
+      "cpf_cnpj_socio": "***990328**",
+      "nome": "SABRINA FERNANDA OLIVEIRA",
+      "tipo": "Pessoa Física",
+      "data_entrada": "2022-01-28",
+      "cpf_representante_legal": "***000000**",
+      "nome_representante": null,
+      "faixa_etaria": "21 a 30 anos",
+      "atualizado_em": "2024-01-13T03:00:00.000Z",
+      "pais_id": "1058",
+      "qualificacao_socio": {
+        "id": 22,
+        "descricao": "Sócio"
+      },
+      "qualificacao_representante": null,
+      "pais": {
+        "id": "1058",
+        "iso2": "BR",
+        "iso3": "BRA",
+        "nome": "Brasil",
+        "comex_id": "105"
+      }
+    }
+  ],
+  "simples": {
+    "simples": "Sim",
+    "data_opcao_simples": "2022-01-01",
+    "data_exclusao_simples": null,
+    "mei": "Não",
+    "data_opcao_mei": null,
+    "data_exclusao_mei": null,
+    "atualizado_em": "2024-01-13T03:00:00.000Z"
+  },
+  "estabelecimento": {
+    "cnpj": "15021706000107",
+    "atividades_secundarias": [
+      {
+        "id": "6209100",
+        "secao": "J",
+        "divisao": "62",
+        "grupo": "62.0",
+        "classe": "62.09-1",
+        "subclasse": "6209-1/00",
+        "descricao": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+      }
+    ],
+    "cnpj_raiz": "15021706",
+    "cnpj_ordem": "0001",
+    "cnpj_digito_verificador": "07",
+    "tipo": "Matriz",
+    "nome_fantasia": "UNO ERP",
+    "situacao_cadastral": "Ativa",
+    "data_situacao_cadastral": "2012-02-06",
+    "data_inicio_atividade": "2012-02-06",
+    "nome_cidade_exterior": null,
+    "tipo_logradouro": "RUA",
+    "logradouro": "PAULO ANTONIO DO NASCIMENTO",
+    "numero": "145",
+    "complemento": "SALA: 52",
+    "bairro": "JARDIM PORTAL DA COLINA",
+    "cep": "18047400",
+    "ddd1": "11",
+    "telefone1": "40639301",
+    "ddd2": null,
+    "telefone2": null,
+    "ddd_fax": "15",
+    "fax": "33574081",
+    "email": "adriana.sanches@unosolucoes.com.br",
+    "situacao_especial": null,
+    "data_situacao_especial": null,
+    "atualizado_em": "2024-01-13T03:00:00.000Z",
+    "atividade_principal": {
+      "id": "6203100",
+      "secao": "J",
+      "divisao": "62",
+      "grupo": "62.0",
+      "classe": "62.03-1",
+      "subclasse": "6203-1/00",
+      "descricao": "Desenvolvimento e licenciamento de programas de computador não customizáveis"
+    },
+    "pais": {
+      "id": "1058",
+      "iso2": "BR",
+      "iso3": "BRA",
+      "nome": "Brasil",
+      "comex_id": "105"
+    },
+    "estado": {
+      "id": 26,
+      "nome": "São Paulo",
+      "sigla": "SP",
+      "ibge_id": 35
+    },
+    "cidade": {
+      "id": 3851,
+      "nome": "Sorocaba",
+      "ibge_id": 3552205,
+      "siafi_id": "7145"
+    },
+    "motivo_situacao_cadastral": null,
+    "inscricoes_estaduais": [
+      {
+        "inscricao_estadual": "669454390116",
+        "ativo": true,
+        "atualizado_em": "2024-02-14T03:00:00.000Z",
+        "estado": {
+          "id": 26,
+          "nome": "São Paulo",
+          "sigla": "SP",
+          "ibge_id": 35
+        }
+      }
+    ]
+  }
+}
