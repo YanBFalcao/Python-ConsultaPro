@@ -19,9 +19,9 @@ def get_response(user_input: str) -> str:
     
     elif 'roll dice' in lowered:
         return f'You rolled: {randint(1, 6)}'
-    
-    elif '15021706000107' in lowered:
-        api_url = f"https://publica.cnpj.ws/cnpj/15021706000107"
+          
+    elif '00000000000000' in lowered:
+        api_url = f"https://publica.cnpj.ws/cnpj/00000000000000"
         response = requests.get(api_url) #Aqui, chama a requisição
 
         data = response.json() #Aqui, recebe os dados da requisição
